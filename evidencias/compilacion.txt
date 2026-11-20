@@ -1,0 +1,13 @@
+  Determinando los proyectos que se van a restaurar...
+  Todos los proyectos están actualizados para la restauración.
+  Recursividad.Core -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u2-build\bin\Recursividad.Core\release\Recursividad.Core.dll
+  Catalogo.Forms -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u2-build\bin\Catalogo.Forms\release\Catalogo.Forms.dll
+  Hanoi.Forms -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u2-build\bin\Hanoi.Forms\release\Hanoi.Forms.dll
+  Verificaciones -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u2-build\bin\Verificaciones\release\Verificaciones.dll
+  PruebasInterfaz -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u2-build\bin\PruebasInterfaz\release\PruebasInterfaz.dll
+
+Compilación correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:02.71

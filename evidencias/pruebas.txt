@@ -1,0 +1,165 @@
+PASS factorial 0, resultado y métricas
+PASS factorial 1, resultado y métricas
+PASS factorial 2, resultado y métricas
+PASS factorial 3, resultado y métricas
+PASS factorial 4, resultado y métricas
+PASS factorial 5, resultado y métricas
+PASS factorial 6, resultado y métricas
+PASS factorial 7, resultado y métricas
+PASS factorial 8, resultado y métricas
+PASS factorial 9, resultado y métricas
+PASS factorial 10, resultado y métricas
+PASS factorial 11, resultado y métricas
+PASS factorial 12, resultado y métricas
+PASS factorial 13, resultado y métricas
+PASS factorial 14, resultado y métricas
+PASS factorial 15, resultado y métricas
+PASS factorial 16, resultado y métricas
+PASS factorial 17, resultado y métricas
+PASS factorial 18, resultado y métricas
+PASS factorial 19, resultado y métricas
+PASS factorial 20, resultado y métricas
+PASS factoriales conocidos independientes
+PASS Fibonacci 0, resultado, llamadas y profundidad
+PASS Fibonacci 1, resultado, llamadas y profundidad
+PASS Fibonacci 2, resultado, llamadas y profundidad
+PASS Fibonacci 3, resultado, llamadas y profundidad
+PASS Fibonacci 4, resultado, llamadas y profundidad
+PASS Fibonacci 5, resultado, llamadas y profundidad
+PASS Fibonacci 6, resultado, llamadas y profundidad
+PASS Fibonacci 7, resultado, llamadas y profundidad
+PASS Fibonacci 8, resultado, llamadas y profundidad
+PASS Fibonacci 9, resultado, llamadas y profundidad
+PASS Fibonacci 10, resultado, llamadas y profundidad
+PASS Fibonacci 11, resultado, llamadas y profundidad
+PASS Fibonacci 12, resultado, llamadas y profundidad
+PASS Fibonacci 13, resultado, llamadas y profundidad
+PASS Fibonacci 14, resultado, llamadas y profundidad
+PASS Fibonacci 15, resultado, llamadas y profundidad
+PASS Fibonacci 30 conocido
+PASS suma de 0 elementos
+PASS búsqueda en longitud 0
+PASS ausencia en longitud 0
+PASS suma de 1 elementos
+PASS búsqueda en longitud 1
+PASS ausencia en longitud 1
+PASS suma de 2 elementos
+PASS búsqueda en longitud 2
+PASS ausencia en longitud 2
+PASS suma de 3 elementos
+PASS búsqueda en longitud 3
+PASS ausencia en longitud 3
+PASS suma de 4 elementos
+PASS búsqueda en longitud 4
+PASS ausencia en longitud 4
+PASS suma de 5 elementos
+PASS búsqueda en longitud 5
+PASS ausencia en longitud 5
+PASS suma de 6 elementos
+PASS búsqueda en longitud 6
+PASS ausencia en longitud 6
+PASS suma de 7 elementos
+PASS búsqueda en longitud 7
+PASS ausencia en longitud 7
+PASS suma de 8 elementos
+PASS búsqueda en longitud 8
+PASS ausencia en longitud 8
+PASS suma de 9 elementos
+PASS búsqueda en longitud 9
+PASS ausencia en longitud 9
+PASS suma de 10 elementos
+PASS búsqueda en longitud 10
+PASS ausencia en longitud 10
+PASS suma de 11 elementos
+PASS búsqueda en longitud 11
+PASS ausencia en longitud 11
+PASS suma de 12 elementos
+PASS búsqueda en longitud 12
+PASS ausencia en longitud 12
+PASS suma de 13 elementos
+PASS búsqueda en longitud 13
+PASS ausencia en longitud 13
+PASS suma de 14 elementos
+PASS búsqueda en longitud 14
+PASS ausencia en longitud 14
+PASS suma de 15 elementos
+PASS búsqueda en longitud 15
+PASS ausencia en longitud 15
+PASS suma de 16 elementos
+PASS búsqueda en longitud 16
+PASS ausencia en longitud 16
+PASS suma de 17 elementos
+PASS búsqueda en longitud 17
+PASS ausencia en longitud 17
+PASS suma de 18 elementos
+PASS búsqueda en longitud 18
+PASS ausencia en longitud 18
+PASS suma de 19 elementos
+PASS búsqueda en longitud 19
+PASS ausencia en longitud 19
+PASS suma de 20 elementos
+PASS búsqueda en longitud 20
+PASS ausencia en longitud 20
+PASS suma de 21 elementos
+PASS búsqueda en longitud 21
+PASS ausencia en longitud 21
+PASS suma de 22 elementos
+PASS búsqueda en longitud 22
+PASS ausencia en longitud 22
+PASS suma de 23 elementos
+PASS búsqueda en longitud 23
+PASS ausencia en longitud 23
+PASS suma de 24 elementos
+PASS búsqueda en longitud 24
+PASS ausencia en longitud 24
+PASS primera coincidencia entre duplicados
+PASS suma de 500 enteros sin desbordar Int32
+PASS entrada con separadores y negativos
+PASS arreglo vacío válido
+PASS Hanoi 0: secuencia y métricas
+PASS Hanoi 0: destino correcto y movimientos legales
+PASS Hanoi 0: deshacer todos los movimientos
+PASS Hanoi 1: secuencia y métricas
+PASS Hanoi 1: destino correcto y movimientos legales
+PASS Hanoi 1: deshacer todos los movimientos
+PASS Hanoi 2: secuencia y métricas
+PASS Hanoi 2: destino correcto y movimientos legales
+PASS Hanoi 2: deshacer todos los movimientos
+PASS Hanoi 3: secuencia y métricas
+PASS Hanoi 3: destino correcto y movimientos legales
+PASS Hanoi 3: deshacer todos los movimientos
+PASS Hanoi 4: secuencia y métricas
+PASS Hanoi 4: destino correcto y movimientos legales
+PASS Hanoi 4: deshacer todos los movimientos
+PASS Hanoi 5: secuencia y métricas
+PASS Hanoi 5: destino correcto y movimientos legales
+PASS Hanoi 5: deshacer todos los movimientos
+PASS Hanoi 6: secuencia y métricas
+PASS Hanoi 6: destino correcto y movimientos legales
+PASS Hanoi 6: deshacer todos los movimientos
+PASS Hanoi 7: secuencia y métricas
+PASS Hanoi 7: destino correcto y movimientos legales
+PASS Hanoi 7: deshacer todos los movimientos
+PASS Hanoi 8: secuencia y métricas
+PASS Hanoi 8: destino correcto y movimientos legales
+PASS Hanoi 8: deshacer todos los movimientos
+PASS Hanoi 9: secuencia y métricas
+PASS Hanoi 9: destino correcto y movimientos legales
+PASS Hanoi 9: deshacer todos los movimientos
+PASS Hanoi 10: secuencia y métricas
+PASS Hanoi 10: destino correcto y movimientos legales
+PASS Hanoi 10: deshacer todos los movimientos
+PASS factorial negativo
+PASS factorial fuera de Int64
+PASS límite de Fibonacci directo
+PASS token inválido en arreglo
+PASS profundidad de arreglo acotada
+PASS plan demasiado grande para simulación
+PASS medición fuera de límite
+PASS cancelación antes de recorrer Hanoi
+PASS medición sin tamaños
+PASS tamaño inválido de medición
+PASS normalización de tamaños de medición
+PASS simulador rechaza mover disco que no está en el tope
+PASS mediciones reales y contadores coherentes
+RESULTADO: 164 verificaciones aprobadas

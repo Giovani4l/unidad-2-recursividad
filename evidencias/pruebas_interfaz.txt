@@ -1,0 +1,21 @@
+PASS catálogo: Factorial
+PASS contador real de factorial en pantalla
+PASS catálogo: Fibonacci
+PASS catálogo: Torres de Hanoi
+PASS catálogo: Suma de arreglo
+PASS catálogo: Búsqueda lineal
+PASS catálogo: Búsqueda lineal
+PASS catálogo: Factorial
+PASS controles sin recorte en entrada
+PASS controles sin recorte en datosEntrada
+PASS plan de tres discos genera siete movimientos
+PASS avance del simulador
+PASS retroceso del simulador
+PASS simulador alcanza destino
+PASS controles sin recorte en entrada
+PASS temporizador ejecuta la reproducción
+PASS medición desde la interfaz con tamaños elegidos
+PASS exportación disponible tras medir
+PASS controles sin recorte en barraMedir
+RESULTADO: 19 comprobaciones de interfaz aprobadas
+Imágenes: renders directos de WinForms con DrawToBitmap; no son capturas del escritorio.

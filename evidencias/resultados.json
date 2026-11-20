@@ -1,0 +1,66 @@
+{
+  "Aprobadas": 164,
+  "Runtime": ".NET 10.0.12",
+  "SO": "Microsoft Windows 10.0.19045",
+  "Arquitectura": "X64",
+  "SDK": "10.0.401",
+  "Metodo": "Release; 3 calentamientos; mediana de 7 muestras; sin guardar movimientos; incluye instrumentaci\u00F3n y control de cancelaci\u00F3n",
+  "Muestras": [
+    {
+      "Discos": 0,
+      "Movimientos": 0,
+      "Llamadas": 1,
+      "Profundidad": 1,
+      "MedianaMs": 0.0001,
+      "BytesAsignados": 48
+    },
+    {
+      "Discos": 1,
+      "Movimientos": 1,
+      "Llamadas": 3,
+      "Profundidad": 2,
+      "MedianaMs": 0.0001,
+      "BytesAsignados": 48
+    },
+    {
+      "Discos": 4,
+      "Movimientos": 15,
+      "Llamadas": 31,
+      "Profundidad": 5,
+      "MedianaMs": 0.0001,
+      "BytesAsignados": 48
+    },
+    {
+      "Discos": 8,
+      "Movimientos": 255,
+      "Llamadas": 511,
+      "Profundidad": 9,
+      "MedianaMs": 0.0021,
+      "BytesAsignados": 48
+    },
+    {
+      "Discos": 12,
+      "Movimientos": 4095,
+      "Llamadas": 8191,
+      "Profundidad": 13,
+      "MedianaMs": 0.0319,
+      "BytesAsignados": 48
+    },
+    {
+      "Discos": 16,
+      "Movimientos": 65535,
+      "Llamadas": 131071,
+      "Profundidad": 17,
+      "MedianaMs": 0.5328,
+      "BytesAsignados": 48
+    },
+    {
+      "Discos": 20,
+      "Movimientos": 1048575,
+      "Llamadas": 2097151,
+      "Profundidad": 21,
+      "MedianaMs": 8.4794,
+      "BytesAsignados": 48
+    }
+  ]
+}
