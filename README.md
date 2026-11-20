@@ -105,24 +105,14 @@ iniciales no son resultados simulados. Los casos de prueba sí tienen valores
 conocidos para comprobar expectativas. Los datos de las ventanas no se guardan
 al cerrar; solo se persiste el CSV si el usuario lo exporta.
 
-## GitHub y videos
+## Repositorio y videos
 
-La URL de GitHub quedó **pendiente por indicación del alumno**. Crear un
-repositorio vacío en la cuenta y, desde esta carpeta, publicar:
+El código fuente de la Unidad 2 está publicado en el repositorio público:
+[github.com/Giovani4l/unidad-2-recursividad](https://github.com/Giovani4l/unidad-2-recursividad).
 
-```powershell
-git init
-git add .
-git commit -m "Unidad 2: recursividad en C# y Windows Forms"
-git branch -M main
-git remote add origin https://github.com/USUARIO/REPOSITORIO.git
-git push -u origin main
-```
-
-Sustituir los dos marcadores por los datos reales. Después añadir el enlace
-a los reportes y a la entrega. Los tres videos deben grabarse con pantalla y
-cámara visible en la esquina inferior derecha y publicarse como Públicos en
-el mismo canal del alumno. Se incluyen guiones; no grabaciones ficticias.
+Los enlaces a los videos se agregarán cuando estén grabados y publicados en el
+canal del alumno. Cada video debe mostrar la pantalla y la cámara web en la
+esquina inferior derecha.
 
 ## Referencias principales
 
